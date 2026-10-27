@@ -1,0 +1,409 @@
+[
+  {
+    "id": "blog",
+    "file": "html/blog.html",
+    "outcome": "success",
+    "required_text": [
+      "Seeds grow best",
+      "steady care",
+      "Observe before changing"
+    ],
+    "required_tags": [],
+    "excluded_text": [
+      "UNRELATED SITE MENU",
+      "UNRELATED SITE FOOTER"
+    ],
+    "usage": "Original test content created for einkrelayer; redistributable with this repository."
+  },
+  {
+    "id": "news",
+    "file": "html/news.html",
+    "outcome": "success",
+    "required_text": [
+      "reading room welcomes",
+      "Weekly opening pattern"
+    ],
+    "required_tags": [
+      "img",
+      "figcaption"
+    ],
+    "excluded_text": [
+      "UNRELATED SITE MENU",
+      "UNRELATED SITE FOOTER"
+    ],
+    "usage": "Original test content created for einkrelayer; redistributable with this repository."
+  },
+  {
+    "id": "essay",
+    "file": "html/essay.html",
+    "outcome": "success",
+    "required_text": [
+      "Observation 1",
+      "observation 24"
+    ],
+    "required_tags": [
+      "section"
+    ],
+    "excluded_text": [
+      "UNRELATED SITE MENU",
+      "UNRELATED SITE FOOTER"
+    ],
+    "usage": "Original test content created for einkrelayer; redistributable with this repository."
+  },
+  {
+    "id": "docs",
+    "file": "html/docs.html",
+    "outcome": "success",
+    "required_text": [
+      "Indentation is significant.",
+      "    print(value)"
+    ],
+    "required_tags": [
+      "pre",
+      "code"
+    ],
+    "excluded_text": [
+      "UNRELATED SITE MENU",
+      "UNRELATED SITE FOOTER"
+    ],
+    "usage": "Original test content created for einkrelayer; redistributable with this repository."
+  },
+  {
+    "id": "tutorial",
+    "file": "html/tutorial.html",
+    "outcome": "success",
+    "required_text": [
+      "Check both ends.",
+      "Wear suitable eye protection.",
+      "The available gap."
+    ],
+    "required_tags": [
+      "ol",
+      "ul",
+      "dl"
+    ],
+    "excluded_text": [
+      "UNRELATED SITE MENU",
+      "UNRELATED SITE FOOTER"
+    ],
+    "usage": "Original test content created for einkrelayer; redistributable with this repository."
+  },
+  {
+    "id": "reference",
+    "file": "html/reference.html",
+    "outcome": "success",
+    "required_text": [
+      "Lengths",
+      "Kilometre",
+      "1000"
+    ],
+    "required_tags": [
+      "table",
+      "th"
+    ],
+    "excluded_text": [
+      "UNRELATED SITE MENU",
+      "UNRELATED SITE FOOTER"
+    ],
+    "usage": "Original test content created for einkrelayer; redistributable with this repository."
+  },
+  {
+    "id": "comparative",
+    "file": "html/comparative.html",
+    "outcome": "success",
+    "required_text": [
+      "Properties",
+      "Natural",
+      "Painted"
+    ],
+    "required_tags": [
+      "table"
+    ],
+    "excluded_text": [
+      "UNRELATED SITE MENU",
+      "UNRELATED SITE FOOTER"
+    ],
+    "usage": "Original test content created for einkrelayer; redistributable with this repository."
+  },
+  {
+    "id": "short",
+    "file": "html/short.html",
+    "outcome": "success",
+    "required_text": [
+      "The bridge is closed for repairs until Friday."
+    ],
+    "required_tags": [
+      "p"
+    ],
+    "excluded_text": [
+      "UNRELATED SITE MENU",
+      "UNRELATED SITE FOOTER"
+    ],
+    "usage": "Original test content created for einkrelayer; redistributable with this repository."
+  },
+  {
+    "id": "plain",
+    "file": "html/plain.html",
+    "outcome": "success",
+    "required_text": [
+      "Leading text belongs",
+      "no semantic wrapper",
+      "Trailing text matters"
+    ],
+    "required_tags": [
+      "p"
+    ],
+    "excluded_text": [
+      "UNRELATED SITE MENU",
+      "UNRELATED SITE FOOTER"
+    ],
+    "usage": "Original test content created for einkrelayer; redistributable with this repository."
+  },
+  {
+    "id": "images",
+    "file": "html/images.html",
+    "outcome": "success",
+    "required_text": [
+      "series rises after a small dip"
+    ],
+    "required_tags": [
+      "img"
+    ],
+    "excluded_text": [
+      "UNRELATED SITE MENU",
+      "UNRELATED SITE FOOTER"
+    ],
+    "usage": "Original test content created for einkrelayer; redistributable with this repository."
+  },
+  {
+    "id": "saved-assets",
+    "file": "html/saved-assets.html",
+    "outcome": "success",
+    "required_text": [
+      "Values retained from the saved report."
+    ],
+    "required_tags": [
+      "img"
+    ],
+    "excluded_text": [
+      "UNRELATED SITE MENU",
+      "UNRELATED SITE FOOTER"
+    ],
+    "usage": "Original test content created for einkrelayer; redistributable with this repository."
+  },
+  {
+    "id": "saved-unicode",
+    "file": "html/saved-unicode.html",
+    "outcome": "success",
+    "required_text": [
+      "Café, naïve, résumé",
+      "20°C"
+    ],
+    "required_tags": [
+      "a"
+    ],
+    "excluded_text": [
+      "UNRELATED SITE MENU",
+      "UNRELATED SITE FOOTER"
+    ],
+    "usage": "Original test content created for einkrelayer; redistributable with this repository."
+  },
+  {
+    "id": "wiki",
+    "file": "html/wiki.html",
+    "outcome": "success",
+    "required_text": [
+      "oldest example",
+      "First source, page 12."
+    ],
+    "required_tags": [
+      "dl"
+    ],
+    "excluded_text": [
+      "UNRELATED SITE MENU",
+      "UNRELATED SITE FOOTER"
+    ],
+    "usage": "Original test content created for einkrelayer; redistributable with this repository."
+  },
+  {
+    "id": "thread",
+    "file": "html/thread.html",
+    "outcome": "success",
+    "required_text": [
+      "Ana",
+      "Sam",
+      "updated walking map"
+    ],
+    "required_tags": [
+      "blockquote"
+    ],
+    "excluded_text": [
+      "UNRELATED SITE MENU",
+      "UNRELATED SITE FOOTER"
+    ],
+    "usage": "Original test content created for einkrelayer; redistributable with this repository."
+  },
+  {
+    "id": "recipe-faq",
+    "file": "html/recipe-faq.html",
+    "outcome": "success",
+    "required_text": [
+      "100 g flour",
+      "200 ml milk",
+      "Rest for ten minutes"
+    ],
+    "required_tags": [
+      "ol",
+      "ul"
+    ],
+    "excluded_text": [
+      "UNRELATED SITE MENU",
+      "UNRELATED SITE FOOTER"
+    ],
+    "usage": "Original test content created for einkrelayer; redistributable with this repository."
+  },
+  {
+    "id": "specifications",
+    "file": "html/specifications.html",
+    "outcome": "success",
+    "required_text": [
+      "−10°C",
+      "50°C",
+      "3.3 V nominal",
+      "30 × 20 mm"
+    ],
+    "required_tags": [
+      "table"
+    ],
+    "excluded_text": [
+      "UNRELATED SITE MENU",
+      "UNRELATED SITE FOOTER"
+    ],
+    "usage": "Original test content created for einkrelayer; redistributable with this repository."
+  },
+  {
+    "id": "academic",
+    "file": "html/academic.html",
+    "outcome": "success",
+    "required_text": [
+      "The area is given by",
+      "Measurements and their trend."
+    ],
+    "required_tags": [
+      "math",
+      "img"
+    ],
+    "excluded_text": [
+      "UNRELATED SITE MENU",
+      "UNRELATED SITE FOOTER"
+    ],
+    "usage": "Original test content created for einkrelayer; redistributable with this repository."
+  },
+  {
+    "id": "cjk",
+    "file": "html/cjk.html",
+    "outcome": "success",
+    "required_text": [
+      "这是一段中文内容",
+      "日本語の文章"
+    ],
+    "required_tags": [
+      "p"
+    ],
+    "excluded_text": [
+      "UNRELATED SITE MENU",
+      "UNRELATED SITE FOOTER"
+    ],
+    "usage": "Original test content created for einkrelayer; redistributable with this repository."
+  },
+  {
+    "id": "rtl",
+    "file": "html/rtl.html",
+    "outcome": "success",
+    "required_text": [
+      "هذا نص عربي"
+    ],
+    "required_tags": [
+      "p"
+    ],
+    "excluded_text": [
+      "UNRELATED SITE MENU",
+      "UNRELATED SITE FOOTER"
+    ],
+    "usage": "Original test content created for einkrelayer; redistributable with this repository."
+  },
+  {
+    "id": "mixed-direction",
+    "file": "html/mixed-direction.html",
+    "outcome": "success",
+    "required_text": [
+      "Version 2.0",
+      "English text with",
+      "עברית"
+    ],
+    "required_tags": [
+      "span"
+    ],
+    "excluded_text": [
+      "UNRELATED SITE MENU",
+      "UNRELATED SITE FOOTER"
+    ],
+    "usage": "Original test content created for einkrelayer; redistributable with this repository."
+  },
+  {
+    "id": "login",
+    "file": "html/login.html",
+    "outcome": "held",
+    "reason": "login",
+    "usage": "Original negative test content created for einkrelayer; redistributable with this repository."
+  },
+  {
+    "id": "paywall",
+    "file": "html/paywall.html",
+    "outcome": "held",
+    "reason": "paywall",
+    "usage": "Original negative test content created for einkrelayer; redistributable with this repository."
+  },
+  {
+    "id": "javascript",
+    "file": "html/javascript.html",
+    "outcome": "held",
+    "reason": "content",
+    "usage": "Original negative test content created for einkrelayer; redistributable with this repository."
+  },
+  {
+    "id": "challenge",
+    "file": "html/challenge.html",
+    "outcome": "held",
+    "reason": "challenge",
+    "usage": "Original negative test content created for einkrelayer; redistributable with this repository."
+  },
+  {
+    "id": "chrome-only",
+    "file": "html/chrome-only.html",
+    "outcome": "held",
+    "reason": "content",
+    "usage": "Original negative test content created for einkrelayer; redistributable with this repository."
+  },
+  {
+    "id": "truncated",
+    "file": "html/truncated.html",
+    "outcome": "held",
+    "reason": "truncated",
+    "usage": "Original negative test content created for einkrelayer; redistributable with this repository."
+  },
+  {
+    "id": "missing-image",
+    "file": "html/missing-image.html",
+    "outcome": "held",
+    "reason": "asset",
+    "usage": "Original negative test content created for einkrelayer; redistributable with this repository."
+  },
+  {
+    "id": "unrecoverable",
+    "file": "html/unrecoverable.html",
+    "outcome": "held",
+    "reason": "content",
+    "usage": "Original negative test content created for einkrelayer; redistributable with this repository."
+  }
+]

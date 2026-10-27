@@ -1,0 +1,16 @@
+# One table per user: send to the plus-tagged RELAY_ADDRESS from your .env.
+# Example: readings+ana@example.org for [ana].
+# From must be in that user's senders list, with valid aligned DKIM covering To.
+[ana]
+label = "Ana"                     # display name; table name stays the stable flow ID
+senders = ["ana@example.com", "ana@example.org"]
+kindle = "ana_reader@kindle.com"   # or a list of addresses
+min_articles = 10                  # send once this many articles are ready (1-50)
+# days = ["sun"]                   # optional: only send on these days
+# title = "Ana's Digest"           # optional: overrides DIGEST_TITLE
+
+[mateo]
+label = "Mateo"
+senders = ["mateo@example.org"]
+kindle = "mateo_reader@kindle.com"
+min_articles = 10
