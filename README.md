@@ -1,5 +1,7 @@
 # einkrelayer
 
+![einkrelayer illustration](docs/assets/einkrelayer.svg)
+
 Turn links and documents into readable EPUB books and digests, then deliver them
 to an e-reader through your own email provider. Use the CLI or email a shared
 mailbox; each reader has a label, allowed sender addresses, and Kindle destinations.
